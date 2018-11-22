@@ -5,30 +5,35 @@ body {
 #SearchBody {
     background-image: url("../Pics/electric.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
     overflow:hidden;
 }
 
 #HomeBody{
     background-image: url("../Pics/confetti.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
     overflow:hidden;
 }
 
 #MyMusicBody{
     background-image:url("../Pics/HomePage.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
     overflow:hidden;
 }
 
 #TrendingBody{
     background-image:url("../Pics/Cheers.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
     overflow:hidden;
 }
 
 #NowPlayingBody {
     background-image:url("../Pics/headphones.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
     overflow:hidden;
 }
 
